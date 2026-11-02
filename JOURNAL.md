@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/shzyocyjhevft6slq6mr3w5x)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> RequiemQuest Is Custom Pocket Video Game Console
+> RequiemQuest is custom portable handheld video game console, Powered by a Raspberry Pi Pico H. Features a 1.8-inch SPI TFT Color Screen With Integrated LiPo Power Management
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
